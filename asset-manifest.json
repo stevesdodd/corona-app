@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/corona-app/static/css/main.5f361e03.chunk.css",
+    "main.js": "/corona-app/static/js/main.964c0bff.chunk.js",
+    "main.js.map": "/corona-app/static/js/main.964c0bff.chunk.js.map",
+    "runtime-main.js": "/corona-app/static/js/runtime-main.e426d2a9.js",
+    "runtime-main.js.map": "/corona-app/static/js/runtime-main.e426d2a9.js.map",
+    "static/js/2.25506119.chunk.js": "/corona-app/static/js/2.25506119.chunk.js",
+    "static/js/2.25506119.chunk.js.map": "/corona-app/static/js/2.25506119.chunk.js.map",
+    "index.html": "/corona-app/index.html",
+    "precache-manifest.17d123b3ef69f8b67102d3e7753fc480.js": "/corona-app/precache-manifest.17d123b3ef69f8b67102d3e7753fc480.js",
+    "service-worker.js": "/corona-app/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/corona-app/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.25506119.chunk.js.LICENSE.txt": "/corona-app/static/js/2.25506119.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/corona-app/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e426d2a9.js",
+    "static/js/2.25506119.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.964c0bff.chunk.js"
+  ]
+}
